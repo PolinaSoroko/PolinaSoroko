@@ -11,22 +11,19 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+## 🧑‍💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css" />
 
-* C/C++
-* Python
-* HTML, CSS
-* Java
-* SQL
+## 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-**Tools:**
+## 🛠️ Tools & IDEs
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,pycharm,idea,visualstudio,vscode" />
 
-* Git, GitHub
-* Linux (Ubuntu)
-* MySQL, PostgreSQL
-* PyCharm, IntelliJ IDEA, Visual Studio, VSCode
-* Bizagi Modeler, ERwin Data Modeler, draw.io
-* Figma, Canva, Adobe Photoshop
+## 🎨 Modeling & Design
+**Modeling:** Bizagi Modeler, ERwin Data Modeler, draw.io  
+**Design:** Figma, Canva, Adobe Photoshop
+
 
 ## 🧠 Interests
 
