@@ -74,7 +74,7 @@ Site for Museum (Example - Louvre)
 * 🚀 Status: completed
 * 🔗 Link: https://github.com/PolinaSoroko/3-sem-Research-paper-on-analysis-in-Python.git
 
-🔹 LW5 Python
+🔹 **LW5 Python**
 
 Python lab work
 
@@ -82,7 +82,7 @@ Python lab work
 * 🚀 Status: completed
 * 🔗 Link: https://github.com/PolinaSoroko/LR5-Python.git
 
-🔹 LW6 OOPiP "Patterns"
+🔹 LW6 OOPiP **"Patterns"**
 
 Patterns were used in this lab work
 
