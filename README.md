@@ -27,7 +27,7 @@
 
 ## 🧠 Interests
 
-* Analysis
+* Business-Analysis
 * Algorithms & Data Structures
 * AI, FinTech
 ---
@@ -37,7 +37,7 @@
 * ✉️ Email: ssspolllinnaa0703w@gmail.com, sorokpoli54@gmail.com
 * 💬 Telegram: @polinasoroko
 * 💼 LinkedIn: www.linkedin.com/in/полина-сороко-a6166137b
-* 🌐 CV: https://drive.google.com/file/d/1ZE6piwQCHtEwBucXAXVLR79FkjeqjCQ0/view?usp=sharing
+* 🌐 CV: https://drive.google.com/file/d/1V2UUelebKvheYlhUHoOe6OeAplFoddXB/view?usp=sharing
 
 ---
 ## 📌 Projects
