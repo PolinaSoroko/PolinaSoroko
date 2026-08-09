@@ -37,7 +37,7 @@
 * ✉️ Email: ssspolllinnaa0703w@gmail.com, sorokpoli54@gmail.com
 * 💬 Telegram: @polinasoroko
 * 💼 LinkedIn: www.linkedin.com/in/полина-сороко-a6166137b
-* 🌐 CV:https://drive.google.com/file/d/1FVSJ-j8SRntsp9w3_2MDg73yAcdh5sGl/view?usp=sharing
+* 🌐 CV: https://drive.google.com/file/d/1FVSJ-j8SRntsp9w3_2MDg73yAcdh5sGl/view?usp=sharing
 
 ---
 ## 📌 Projects
