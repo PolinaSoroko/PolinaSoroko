@@ -37,7 +37,7 @@
 * ✉️ Email: sorokop40@gmail.com, sorokpoli54@gmail.com
 * 💬 Telegram: @polinasoroko
 * 💼 LinkedIn: www.linkedin.com/in/полина-сороко-a6166137b
-* 🌐 CV: https://drive.google.com/file/d/13bmavQcnjUjRKWnGQ2R110mM43SdPPHT/view?usp=sharing
+* 🌐 CV: https://drive.google.com/file/d/17jet4BJ79eKGvFhK7nWCt3aEJchi3u4l/view?usp=sharing
 
 ---
 ## 📌 Projects
